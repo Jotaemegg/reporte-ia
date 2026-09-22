@@ -1,0 +1,8 @@
+id,cliente,campana,plataforma,gasto,impresiones,clics,conversiones,ingresos
+1,NovaShop,Black Friday Retargeting,Meta Ads,1200.00,145000,3800,190,7800.00
+2,NovaShop,Busqueda Marca,Google Ads,450.00,22000,2100,160,5200.00
+3,NovaShop,Prospeccion Video,TikTok Ads,2300.00,410000,5200,58,1900.00
+4,NovaShop,Display Remarketing,Google Ads,780.00,98000,1200,42,1450.00
+5,NovaShop,Lookalike 1%,Meta Ads,1650.00,210000,4400,145,6300.00
+6,Andina Foods,Lanzamiento Linea Organica,Meta Ads,900.00,120000,2600,88,3100.00
+7,Andina Foods,Busqueda Generica,Google Ads,1400.00,86000,1900,52,1250.00
